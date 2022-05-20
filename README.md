@@ -1,2 +1,5 @@
 # Policy Predictor Front-End
-Angular based Policy Predictor Front End Application
+Road traffic policy Predictor Front End Application
+
+# Technologies
+Angular
