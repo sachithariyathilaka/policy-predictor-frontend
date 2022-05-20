@@ -2,4 +2,4 @@
 Road traffic policy Predictor Front End Application
 
 # Technologies
-Angular
+HTML, CSS, Javascript, Angular
