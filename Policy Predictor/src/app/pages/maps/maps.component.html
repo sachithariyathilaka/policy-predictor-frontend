@@ -1,0 +1,23 @@
+<div class="col-md-12">
+  <div class="card">
+    <div class="card-header">
+      <h4 class="card-title"> Policy Recommendations</h4>
+    </div>
+    <div class="card-body">
+      <div class="table-responsive">
+        <table class="table">
+          <thead class=" text-primary">
+          <th>Accident Class</th>
+          <th>Recommendation</th>
+          </thead>
+          <tbody>
+          <tr *ngFor="let index of recommendations">
+            <td>{{index.class}}</td>
+            <td>{{index.data}}</td>
+          </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
